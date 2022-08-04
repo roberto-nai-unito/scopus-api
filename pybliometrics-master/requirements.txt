@@ -1,0 +1,4 @@
+pbr
+requests
+simplejson
+tqdm

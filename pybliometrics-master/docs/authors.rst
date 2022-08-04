@@ -1,0 +1,1 @@
+.. include:: ../meta/AUTHORS.rst
